@@ -1,0 +1,66 @@
+                            APPLE INDIA WEBSITE
+
+Page:
+Login Page->HomePage->Product Page->Product Description->Buying Option->Payment Gateway
+
+Page Structure:
+
+Login Page:
+      Ask user to enter Apple id 
+
+Home Page:
+    Profile Page
+    Item Cart
+    Filetrs
+    Search Bar
+    Show option to see items in the cart
+Product Page:
+    Show description of types of that particular product
+    Add to cart
+    Or 
+    Buy now
+
+Product Description:
+    Details of the product and what it offers
+
+Buying Option:
+    Select buying option for storage/Power Adapter/Memory/System on a Chip
+    Delivery System
+
+Payment Gateway:
+     UPI/netBanking/credit card/emi
+
+
+
+
+Basic Feature:
+
+Login Page:
+   Apple id input(required)
+   Remember me -button
+  
+Home Page:
+
+   Search Bar to search product
+   Filters
+        Horizontally alingned
+   Cart
+   Show number of product added to cart
+
+Home Page:
+    Will have vertically alingned to show all the products
+
+Product Page:
+    Vertiaclly alinged to the specified product+
+    Details of that type of product+Compare different product
+
+Product Description:
+   Details of that product in vertically alinged 
+
+Buying Option:
+   Review of the product + Buying option vertically alinged
+
+Payment Gateway:
+   Ask for payment in a form
+    
+    
